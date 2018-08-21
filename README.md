@@ -1,4 +1,5 @@
 # lista de jogos
 
-*  [jogo preferido 1]
-*  [jogo preferido 2]
+*  csgo
+* the last of us
+*  god of war
