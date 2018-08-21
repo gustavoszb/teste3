@@ -1,4 +1,5 @@
 # lista de jogos
 
-*   [jogos preferidos 1]
-*   [jogos preferidos 2]
+*   dama
+*   xadrez
+*   truco
